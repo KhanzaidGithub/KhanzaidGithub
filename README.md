@@ -1,4 +1,4 @@
-- 👋 Hi, I am khanzaid student
+- 👋 Hi, My name is Zaid khan student
 - 👀 I’m interested in programming.
 - 🌱 I’m currently learning Mearn stack development.
 - 💞️ I’m looking to collaborate on different projects.
